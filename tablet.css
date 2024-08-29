@@ -1,0 +1,51 @@
+@media only screen and (max-width: 1024px) {
+    .main-content, .main-content2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .title {
+        font-size: 30px;
+        margin-top: 15px;
+    }
+
+    .rec {
+        margin-top: 10px;
+        font-size: 14px;
+    }
+
+    .name-rec {
+        font-size: 18px;
+    }
+
+    .name-invate {
+        font-size: 22px;
+    }
+
+    .time-name {
+        font-size: 14px;
+    }
+
+    .detail-address {
+        font-size: 10px;
+        padding: 0 30px;
+    }
+
+    .wish1, .wish2 {
+        font-size: 12px;
+    }
+
+    .title2 {
+        font-size: 18px;
+    }
+
+    .img-khung {
+        width: 100px;
+        height: 110px;
+    }
+
+    .linkimg {
+        width: 60%;
+        height: 60%;
+    }
+}
